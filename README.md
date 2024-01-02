@@ -3,4 +3,4 @@ This is my Portfolio Project
 
 ## Background
 
-I Looked X,Y,Z.
+I Looked at X,Y,Z.
